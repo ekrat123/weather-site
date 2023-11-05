@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+input {
+  padding: 0.125rem;
+  font-size: 1rem;
+}
+
+button {
+  padding: 0.25rem 0.5rem;
+}
